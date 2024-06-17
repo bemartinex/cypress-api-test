@@ -1,0 +1,23 @@
+{
+    "bodyPost": {
+        "name": "iPhone Breno",
+        "data": {
+          "year": 2024,
+          "price": 7.100,
+          "CPU model": "Intel Core i9",
+          "Hard disk size": "1 TB",
+          "owner": "Breno"
+        }
+    },
+
+   "bodyPut": {
+        "name": "iPhone Put",
+        "data": {
+          "year": 2023,
+          "price": 7.100,
+          "CPU model": "Intel Core i9",
+          "Hard disk size": "1 TB",
+          "owner": "Empresa"
+        }
+    }
+}
